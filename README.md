@@ -30,7 +30,7 @@
 ### 📞 CONTACT
 <a href="mailto:yong10241103@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yong10241103@gmail.com"/></a>
 <a href="mailto:rhdydqls1024@naver.com"><img src="https://img.shields.io/badge/Naver-69e373?style=flat-square&logo=Naver&logoColor=white&link=rhdydqls1024@naver.com"/></a>
-<a href="https://www.instagram.com/koyong_2/"><img src="https://img.shields.io/badge/instagram-a640a4?style=flat-square&logo=instagram&logoColor=white&link=yong10241103@gmail.com"/></a>
+<a href="https://www.instagram.com/koyong_2/"><img src="https://img.shields.io/badge/instagram-a640a4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/koyong_2/"/></a>
 
 ![yongbin1's github stats](https://github-readme-stats.vercel.app/api?username=yongbin1&theme=vue&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongbin1&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
