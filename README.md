@@ -26,8 +26,10 @@
   ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Babel](http://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
   ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&-->
+
 ### 📞 CONTACT
-<a href="mailto:yong10241103@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yong10241103@gmail.com"/></a>
+<a href="mailto:yong10241103@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yong10241103@gmail.com"/></a>
+<a href="mailto:rhdydqls1024@naver.com"><img src="https://img.shields.io/badge/Naver-69e373?style=flat-square&logo=Naver&logoColor=white&link=rhdydqls1024@naver.com"/></a>
 <a href="https://www.instagram.com/koyong_2/"><img src="https://img.shields.io/badge/instagram-a640a4?style=flat-square&logo=instagram&logoColor=white&link=yong10241103@gmail.com"/></a>
 
 ![yongbin1's github stats](https://github-readme-stats.vercel.app/api?username=yongbin1&theme=vue&show_icons=true&hide_border=true)
