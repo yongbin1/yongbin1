@@ -17,7 +17,8 @@
 ### 💡 The language I want to learn 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
 <img src ="https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Django-967f32?style=flat-square&logo=Django&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Spring-967f32?style=flat-square&logo=Spring&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Java-647104?style=flat-square&logo=Java&logoColor=white"/>
 
 
 <!--###Tool
@@ -39,3 +40,4 @@
       
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
 </div>
+용길
