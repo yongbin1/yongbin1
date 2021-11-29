@@ -40,4 +40,3 @@
       
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
 </div>
-용길
