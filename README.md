@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=YONGBIN&fontSize=80&animation=fadeIn&fontAlignY=36&desc=Back-End%20Developer&descAlignY=51&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=YongBin&fontSize=60&animation=fadeIn&fontAlignY=36&desc=Back-End%20Developer&descAlignY=51&descAlign=60)
 ### Technology Stack📚
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></span>
