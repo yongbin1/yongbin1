@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YongBin&fontSize=50&animation=twinkling&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=YONGBIN&fontSize=80&animation=fadeIn&fontAlignY=36&desc=Back-End%20Developer&descAlignY=51&descAlign=60)
 ### Technology Stack📚
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></span>
@@ -9,15 +9,13 @@
 <img src ="https://img.shields.io/badge/Spring-967f32?style=flat-square&logo=Spring&logoColor=white"/>
   
 ### 🌱 I’m currently learning
-<img src ="https://img.shields.io/badge/Spring-967f32?style=flat-square&logo=Spring&logoColor=white"/>
+<img src ="https://img.shields.io/badge/SpringBoot-967f32?style=flat-square&logo=SpringBoot&logoColor=white"/>
 
-<!--###Tool
-![VSCode](http://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### ⚒️ Tool
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Git](http://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Babel](http://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-  ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&-->
 
 ### 📞 CONTACT
 <a href="mailto:yong10241103@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yong10241103@gmail.com"/></a>
