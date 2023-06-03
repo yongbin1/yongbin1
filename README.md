@@ -29,10 +29,10 @@
 ![yongbin1's github stats](https://github-readme-stats.vercel.app/api?username=yongbin1&theme=vue&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongbin1&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-<a href="https://profile.codersrank.io/user/yongbin1">
-    <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yongbin1&branding=false" width="500"
-/>
-      
+<div>
+  <a href="https://profile.codersrank.io/user/yongbin1">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yongbin1&branding=false" width="500" />
+  </a>
+</div> 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
 </div>
